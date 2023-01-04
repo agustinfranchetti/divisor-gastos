@@ -1,8 +1,6 @@
-import { Login } from "./components/Login";
-import { Register } from "./components/Register";
-import { Profile } from "./components/Profile";
+import { MainScreen } from "./components/MainScreen";
 function App() {
-  return <Profile />;
+  return <MainScreen />;
 }
 
 export default App;
